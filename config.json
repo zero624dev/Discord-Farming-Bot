@@ -1,0 +1,29 @@
+{
+  "prefix": "prefix",
+  "token": "token",
+  "version": "2020.12.16z0",
+  "developers_id": [
+    "id"
+  ],
+  "activities": [
+    {
+      "name": "Chat",
+      "type": "WATCHING"
+    },
+    {
+      "name": "[prefix]help",
+      "type": "LISTENING"
+    },
+    {
+      "name": "with [users] users",
+      "type": "PLAYING"
+    },
+    {
+      "name": "in [guilds] guilds",
+      "type": "PLAYING"
+    }
+  ],
+  "tester": [
+    "id"
+  ]
+}
